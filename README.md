@@ -205,10 +205,10 @@ She listens, understands, and responds — whether you want to play a song, open
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gauravi-mungia/">
+  <a href="https://linkedin.com/in/Gauravi004">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:mungiagauravi04@gmail.com">
+  <a href="mailto:youremail@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/Gauravi004">
@@ -229,3 +229,5 @@ She listens, understands, and responds — whether you want to play a song, open
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=3b9eff&height=100&section=footer"/>
 </p>
+
+<!-- UNI WEBSITE PROJECT — inject into projects table -->
