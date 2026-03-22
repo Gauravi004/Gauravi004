@@ -9,7 +9,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avto.gif"/>
 
 ### 👩‍💻 About Me
 
