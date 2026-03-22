@@ -9,7 +9,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avto.gif"/>
+<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ### 👩‍💻 About Me
 
@@ -40,7 +40,7 @@ class Gauravi:
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,streamlit,tensorflow,react,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,streamlit,tensorflow,react,arduino,git,github,vscode,firebase&theme=dark" />
 </p>
 
 <p align="center">
@@ -49,6 +49,8 @@ class Gauravi:
   <img src="https://img.shields.io/badge/BERT-NLP-yellow?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/RAG-Enabled-green?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Agentic_AI-⬡-3b9eff?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Random_Forest-ML-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Arduino-IoT-teal?style=for-the-badge&logo=arduino"/>
 </p>
 
 ---
@@ -72,11 +74,62 @@ Taiwan controls **92% of world's advanced chips** — I built an intelligent pla
 - 📈 Supply chain & geopolitical risk monitor
 - 📊 Smart PDF report generator
 
-**Tech:** `Streamlit` `Groq (Llama 3.3 70B)` `RAG` `Agentic AI` `DuckDuckGo Search` `ReportLab`
+**Tech Stack:**
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq_Llama_3.3_70B-F55036?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-Knowledge_Base-green?style=flat-square)
+![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-Web_Search-red?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 [![Repo](https://img.shields.io/badge/GitHub-SemiGov_AI-3b9eff?style=flat-square&logo=github)](https://github.com/Gauravi004/semigov-ai)
 
 </td>
+<td width="50%" valign="top">
+
+### 🫀 Seizure Detection for Elderly Care
+> *IoT + ML Real-time Health Monitoring System*
+
+A wearable IoT system using **Arduino + Raspberry Pi** that detects seizures in elderly patients in **real-time** and instantly alerts caregivers.
+
+**System Architecture:**
+```
+[Arduino Nano 33 IoT]          [Raspberry Pi]
+  MAX30105 (Heart Rate)  ──►  ML Model (Random Forest)
+  LSM6DS3 IMU (Accel)   Serial  Feature Extraction
+  LED + Buzzer          ──►  Firebase Push
+                              Twilio SMS + Voice Call
+```
+
+**What it does:**
+- 🔴 Arduino reads **heart rate + acceleration** in real-time
+- 📡 Sends sensor data to **Raspberry Pi** via Serial (115200 baud)
+- 🧠 Raspberry Pi runs **Random Forest ML** on 2-sec sliding window
+- 📲 Sends **SMS + Voice Call** to caregiver via Twilio on detection
+- 🔥 Pushes live data + GPS location to **Firebase Realtime DB**
+- 💡 LED + Buzzer alert triggers directly on Arduino
+
+**Hardware:**
+- 🟦 **Raspberry Pi** — ML inference, Firebase, Twilio alerts
+- ⚡ **Arduino Nano 33 IoT** — sensor data collection
+- ❤️ **MAX30105** — Pulse Oximeter & Heart Rate Sensor
+- 📐 **LSM6DS3 IMU** — Accelerometer + Gyroscope (built-in)
+- 🔔 Red LED + Buzzer — physical alert indicators
+
+**Tech Stack:**
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![RaspberryPi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)
+![sklearn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+[![Repo](https://img.shields.io/badge/GitHub-Seizure_Detection-red?style=flat-square&logo=github)](https://github.com/Gauravi004)
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🥗 AI Diet Plan Generator
@@ -86,17 +139,22 @@ An intelligent system that **reads your medical reports** and generates a person
 
 **What it does:**
 - 📄 Processes PDF, text & scanned medical reports
-- 🔍 Identifies medical condition using BERT (NLP)
-- 🍽️ Generates prescribed, easy-to-follow diet plans
+- 🔍 Identifies medical conditions using **BERT (NLP)**
+- 🍽️ Generates prescribed, easy-to-follow diet plans via **Gemini AI**
+- 🖼️ OCR support for scanned documents
 - 📤 Exports as PDF + JSON
 
-**Tech:** `Python` `BERT` `Gemini API` `Tesseract OCR` `Streamlit` `React` `ReportLab`
+**Tech Stack:**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![BERT](https://img.shields.io/badge/BERT-NLP-yellow?style=flat-square)
+![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google)
+![Tesseract](https://img.shields.io/badge/Tesseract-OCR-blue?style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit)
 
 [![Repo](https://img.shields.io/badge/GitHub-Diet_AI-orange?style=flat-square&logo=github)](https://github.com/Gauravi004)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 💛 Mumma AI
@@ -106,25 +164,16 @@ Not just a voice assistant — **a tribute to my mother**.
 
 She listens, understands, and responds — whether you want to play a song, open an app, get Gemini AI help, or simply feel heard.
 
-*"Every feature reflects what mums do best — multitask with care, respond without being asked, and stay comfortingly present."*
+> *"Every feature reflects what mums do best — multitask with care, respond without being asked, and stay comfortingly present."*
 
-**Tech:** `Python` `Google Gemini AI` `SpeechRecognition` `pyttsx3` `gTTS`
+**Tech Stack:**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google)
+![Speech](https://img.shields.io/badge/SpeechRecognition-green?style=flat-square)
+![TTS](https://img.shields.io/badge/pyttsx3+gTTS-purple?style=flat-square)
 
 [![LinkedIn](https://img.shields.io/badge/Demo-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/Gauravi004)
-
-</td>
-<td width="50%" valign="top">
-
-### 🔮 More Coming Soon...
-
-```
-Currently building:
-□ LangChain RAG pipeline
-□ Multi-agent AI system
-□ NLP-powered resume analyzer
-
-Stay tuned! ⭐
-```
 
 </td>
 </tr>
@@ -156,10 +205,10 @@ Stay tuned! ⭐
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/Gauravi004">
+  <a href="https://www.linkedin.com/in/gauravi-mungia/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:youremail@gmail.com">
+  <a href="mailto:mungiagauravi04@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/Gauravi004">
