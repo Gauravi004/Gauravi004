@@ -1,21 +1,182 @@
-# 💫 About Me:
-Currently, I am exploring the field of Artificial Intelligence, with a focus on Agentic AI and Retrieval-Augmented Generation (RAG). I am actively learning how intelligent systems can make decisions, automate tasks, and enhance user experiences using modern AI techniques.<br><br>I am passionate about building practical projects, improving my problem-solving skills, and growing as a developer in the domain of AI and software development.
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=3B9EFF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Gauravi+%F0%9F%91%8B;AI+%26+ML+Developer;Building+intelligent+systems;That+actually+matter+%F0%9F%A7%A0" alt="Typing SVG" />
+</h1>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gauravi-mungia/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Gauravi Mungia) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mungiagauravi04@gmail.com) 
-
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat&logo=apachespark&logoColor=black) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=flat&logo=react) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=flat&logo=insomnia&logoColor=5849BE) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=flat&logo=node-red&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=flat&logo=apache-cassandra&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat&logo=jest&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat&logo=Twilio&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Gauravi004&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Gauravi004&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gauravi004&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Gauravi004&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Gauravi004&color=3b9eff&style=for-the-badge&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/Gauravi004?style=for-the-badge&color=orange&label=FOLLOWERS" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Gauravi004&icon=0&color=9)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+
+### 👩‍💻 About Me
+
+```python
+class Gauravi:
+    def __init__(self):
+        self.name       = "Gauravi"
+        self.role       = "AI & ML Developer"
+        self.languages  = ["Python", "JavaScript"]
+        self.passion    = "Building AI that solves real problems"
+        self.currently  = "Exploring Agentic AI & RAG systems"
+        self.fun_fact   = "I named my AI assistant Mumma 💛"
+
+    def say_hi(self):
+        print("Thanks for visiting! Let's build something amazing 🚀")
+```
+
+<br>
+
+- 🔭 Currently building **AI-powered governance & healthcare systems**
+- 🌱 Learning **LangChain, RAG, Agentic AI**
+- 💡 I believe **AI should feel human, not robotic**
+- 🎯 Goal: Build AI that makes real impact
+- ⚡ Fun fact: My voice assistant is named after the strongest person I know — my mum 💛
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,streamlit,tensorflow,react,git,github,vscode&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge&logo=groq&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BERT-NLP-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-Enabled-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Agentic_AI-⬡-3b9eff?style=for-the-badge"/>
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⬡ SemiGov AI
+> *AI-Powered Semiconductor Governance Platform*
+
+Taiwan controls **92% of world's advanced chips** — I built an intelligent platform to govern it.
+
+**What it does:**
+- 💬 Multilingual policy Q&A (EN / 中文 / DE)
+- ⚖️ Policy comparator — Taiwan vs US CHIPS Act
+- 🚨 AI complaint center with auto-draft & email
+- 🌊 Resource optimizer (water, energy, ESG)
+- 📈 Supply chain & geopolitical risk monitor
+- 📊 Smart PDF report generator
+
+**Tech:** `Streamlit` `Groq (Llama 3.3 70B)` `RAG` `Agentic AI` `DuckDuckGo Search` `ReportLab`
+
+[![Repo](https://img.shields.io/badge/GitHub-SemiGov_AI-3b9eff?style=flat-square&logo=github)](https://github.com/Gauravi004/semigov-ai)
+
+</td>
+<td width="50%" valign="top">
+
+### 🥗 AI Diet Plan Generator
+> *Healthcare AI using BERT + Generative AI*
+
+An intelligent system that **reads your medical reports** and generates a personalized, medically-relevant diet plan — not a generic one.
+
+**What it does:**
+- 📄 Processes PDF, text & scanned medical reports
+- 🔍 Identifies medical condition using BERT (NLP)
+- 🍽️ Generates prescribed, easy-to-follow diet plans
+- 📤 Exports as PDF + JSON
+
+**Tech:** `Python` `BERT` `Gemini API` `Tesseract OCR` `Streamlit` `React` `ReportLab`
+
+[![Repo](https://img.shields.io/badge/GitHub-Diet_AI-orange?style=flat-square&logo=github)](https://github.com/Gauravi004)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💛 Mumma AI
+> *The Voice Assistant That Feels Like Home*
+
+Not just a voice assistant — **a tribute to my mother**.
+
+She listens, understands, and responds — whether you want to play a song, open an app, get Gemini AI help, or simply feel heard.
+
+*"Every feature reflects what mums do best — multitask with care, respond without being asked, and stay comfortingly present."*
+
+**Tech:** `Python` `Google Gemini AI` `SpeechRecognition` `pyttsx3` `gTTS`
+
+[![LinkedIn](https://img.shields.io/badge/Demo-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/Gauravi004)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔮 More Coming Soon...
+
+```
+Currently building:
+□ LangChain RAG pipeline
+□ Multi-agent AI system
+□ NLP-powered resume analyzer
+
+Stay tuned! ⭐
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Gauravi004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Gauravi004&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gauravi004&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Gauravi004&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/Gauravi004">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:youremail@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Gauravi004">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <i>"The best AI doesn't replace humans — it amplifies what makes us human."</i> 💙
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3b9eff&height=100&section=footer"/>
+</p>
