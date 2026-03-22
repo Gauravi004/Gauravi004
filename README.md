@@ -132,6 +132,36 @@ A wearable IoT system using **Arduino + Raspberry Pi** that detects seizures in 
 <tr>
 <td width="50%" valign="top">
 
+### 🎓 DEV@Deakin — University Web Platform
+> *Full-Stack React + Node.js + Firebase Platform*
+
+A feature-rich university learning platform with AI assistant, payments, live comments, and enterprise-grade security — built end to end.
+
+**What it does:**
+- 🤖 **AI Assistant** — Gemini 2.5 Flash powered chatbot for student queries
+- 🔐 **2FA Security** — TOTP Two-Factor Auth with QR code setup (Speakeasy)
+- 💳 **Stripe Payments** — Subscription plans with real card payment integration
+- 🔥 **Live Comments** — Real-time comments via Firebase Firestore
+- 📧 **Email Notifications** — SendGrid transactional emails on signup
+- 🎥 **Video Gallery** — Tutorial video showcase
+- 📰 **Articles & Search** — Content discovery with filter functionality
+- 🔑 **Auth** — Firebase Google SSO + Email/Password login
+
+**Tech Stack:**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=flat-square&logo=stripe&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_2.5_Flash-4285F4?style=flat-square&logo=google)
+![SendGrid](https://img.shields.io/badge/SendGrid-1A82E2?style=flat-square&logo=sendgrid)
+
+[![Repo](https://img.shields.io/badge/GitHub-DEV@Deakin-purple?style=flat-square&logo=github)](https://github.com/Gauravi004)
+
+</td>
+<td width="50%" valign="top">
+
 ### 🥗 AI Diet Plan Generator
 > *Healthcare AI using BERT + Generative AI*
 
@@ -180,35 +210,7 @@ She listens, understands, and responds — whether you want to play a song, open
 <tr>
 <td width="50%" valign="top">
 
-### 🎓 DEV@Deakin — University Web Platform
-> *Full-Stack React + Node.js + Firebase Platform*
 
-A feature-rich university learning platform with AI assistant, payments, live comments, and enterprise-grade security — built end to end.
-
-**What it does:**
-- 🤖 **AI Assistant** — Gemini 2.5 Flash powered chatbot for student queries
-- 🔐 **2FA Security** — TOTP Two-Factor Auth with QR code setup (Speakeasy)
-- 💳 **Stripe Payments** — Subscription plans with real card payment integration
-- 🔥 **Live Comments** — Real-time comments via Firebase Firestore
-- 📧 **Email Notifications** — SendGrid transactional emails on signup
-- 🎥 **Video Gallery** — Tutorial video showcase
-- 📰 **Articles & Search** — Content discovery with filter functionality
-- 🔑 **Auth** — Firebase Google SSO + Email/Password login
-
-**Tech Stack:**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=flat-square&logo=stripe&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_2.5_Flash-4285F4?style=flat-square&logo=google)
-![SendGrid](https://img.shields.io/badge/SendGrid-1A82E2?style=flat-square&logo=sendgrid)
-
-[![Repo](https://img.shields.io/badge/GitHub-DEV@Deakin-purple?style=flat-square&logo=github)](https://github.com/Gauravi004)
-
-</td>
-<td width="50%" valign="top">
 
 ### 🔮 More Coming Soon...
 
