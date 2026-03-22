@@ -1,5 +1,5 @@
 <h1 align="center">
-  https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=3B9EFF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Gauravi+%F0%9F%91%8B;AI+%26+ML+Developer;Building+intelligent+systems;That+actually+matter+%F0%9F%A7%A0" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -9,7 +9,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ### 👩‍💻 About Me
 
@@ -156,10 +156,10 @@ Stay tuned! ⭐
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gauravi-mungia/">
+  <a href="https://linkedin.com/in/Gauravi004">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:mungiagauravi04@gmail.com">
+  <a href="mailto:youremail@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/Gauravi004">
