@@ -171,8 +171,7 @@ A complete banking system with **Node.js + Express backend and Streamlit fronten
 - 📊 Clean dashboard UI (Streamlit frontend)  
 - 🔐 Secure REST APIs with validation
 
-</td>
-<td width="50%" valign="top">
+
 
 **System Architecture:**
 ### 💛 Mumma AI
