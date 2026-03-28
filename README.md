@@ -157,6 +157,21 @@ An intelligent system that **reads your medical reports** and generates a person
 </td>
 <td width="50%" valign="top">
 
+### 🏦 Banking App (Full Stack)
+> *Secure Full Stack Banking System*
+
+A complete banking system with **Node.js + Express backend and Streamlit frontend**, enabling users to manage accounts, transactions, and balances securely.
+
+**What it does:**
+- 👤 User authentication & account system  
+- 💸 Send & receive money between accounts  
+- 💰 Add balance instantly  
+- 📜 Transaction history tracking  
+- 🏦 Account management system  
+- 📊 Clean dashboard UI (Streamlit frontend)  
+- 🔐 Secure REST APIs with validation  
+
+**System Architecture:**
 ### 💛 Mumma AI
 > *The Voice Assistant That Feels Like Home*
 
