@@ -237,6 +237,7 @@ A feature-rich university learning platform with AI assistant, payments, live co
 [![Repo](https://img.shields.io/badge/GitHub-DEV@Deakin-purple?style=flat-square&logo=github)](https://github.com/Gauravi004)
 
 </td>
+</tr>
 <td width="50%" valign="top">
 
 ### 🔮 More Coming Soon...
