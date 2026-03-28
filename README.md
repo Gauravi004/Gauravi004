@@ -171,6 +171,20 @@ A complete banking system with **Node.js + Express backend and Streamlit fronten
 - 📊 Clean dashboard UI (Streamlit frontend)  
 - 🔐 Secure REST APIs with validation
 
+**Tech Stack:**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+[![Repo](https://img.shields.io/badge/GitHub-Banking_App-blue?style=flat-square&logo=github)](https://github.com/Gauravi004/banking-app-enhanced)
+
+</td>
+</tr>
+</table>
+
 
 
 **System Architecture:**
