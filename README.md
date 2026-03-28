@@ -207,8 +207,6 @@ She listens, understands, and responds — whether you want to play a song, open
 [![LinkedIn](https://img.shields.io/badge/Demo-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/Gauravi004)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🎓 DEV@Deakin — University Web Platform
